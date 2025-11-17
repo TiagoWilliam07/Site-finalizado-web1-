@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let allParts = [];
 
     // Carregar os dados do JSON
-    fetch('json/parts.json')
+    fetch('JSON/parts.json')
         .then(response => response.json())
         .then(data => {
             allParts = data;
