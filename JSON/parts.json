@@ -1,0 +1,402 @@
+[
+  {
+    "id": "CG125-82-001",
+    "nome": "Motor Completo",
+    "descricao": "Motor 4 tempos, monocilíndrico, refrigerado a ar.",
+    "categoria": "Motor",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "11000-GB4-000"
+  },
+  {
+    "id": "CG125-82-002",
+    "nome": "Carburador",
+    "descricao": "Carburador de corpo simples.",
+    "categoria": "Alimentação",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "16100-GB4-600"
+  },
+  {
+    "id": "CG125-82-003",
+    "nome": "Escape Completo",
+    "descricao": "Sistema de exaustão com ponteira cromada.",
+    "categoria": "Exaustão",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "18300-GB4-700"
+  },
+  {
+    "id": "CG125-82-004",
+    "nome": "Quadro (Chassi)",
+    "descricao": "Chassi tubular de aço.",
+    "categoria": "Chassi",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "50100-GB4-000"
+  },
+  {
+    "id": "CG125-82-005",
+    "nome": "Suspensão Dianteira",
+    "descricao": "Garfo telescópico.",
+    "categoria": "Suspensão",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "51400-GB4-000"
+  },
+  {
+    "id": "CG125-82-006",
+    "nome": "Suspensão Traseira",
+    "descricao": "Amortecedores duplos.",
+    "categoria": "Suspensão",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "52400-GB4-000"
+  },
+  {
+    "id": "CG125-82-007",
+    "nome": "Roda Dianteira",
+    "descricao": "Roda raiadas 18 polegadas.",
+    "categoria": "Rodas e Pneus",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "44601-GB4-000"
+  },
+  {
+    "id": "CG125-82-008",
+    "nome": "Roda Traseira",
+    "descricao": "Roda raiadas 18 polegadas.",
+    "categoria": "Rodas e Pneus",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "42601-GB4-000"
+  },
+  {
+    "id": "CG125-82-009",
+    "nome": "Tanque de Combustível",
+    "descricao": "Tanque de metal com capacidade de 9 litros.",
+    "categoria": "Carroceria",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "17500-GB4-000"
+  },
+  {
+    "id": "CG125-82-010",
+    "nome": "Banco",
+    "descricao": "Banco bipartido.",
+    "categoria": "Assento",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "77200-GB4-000"
+  },
+  {
+    "id": "CG125-82-011",
+    "nome": "Farol",
+    "descricao": "Farol redondo com lâmpada halógena.",
+    "categoria": "Elétrica",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "33100-GB4-000"
+  },
+  {
+    "id": "CG125-82-012",
+    "nome": "Lanterna Traseira",
+    "descricao": "Lanterna com luz de freio.",
+    "categoria": "Elétrica",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "33700-GB4-000"
+  },
+  {
+    "id": "CG125-82-013",
+    "nome": "Painel de Instrumentos",
+    "descricao": "Velocímetro e hodômetro.",
+    "categoria": "Elétrica",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "37100-GB4-000"
+  },
+  {
+    "id": "CG125-82-014",
+    "nome": "Guidão",
+    "descricao": "Guidão cromado.",
+    "categoria": "Controles",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "53100-GB4-000"
+  },
+  {
+    "id": "CG125-82-015",
+    "nome": "Manete de Freio",
+    "descricao": "Manete de freio dianteiro.",
+    "categoria": "Controles",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "53175-GB4-000"
+  },
+  {
+    "id": "CG125-82-016",
+    "nome": "Manete de Embreagem",
+    "descricao": "Manete de embreagem.",
+    "categoria": "Controles",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "53178-GB4-000"
+  },
+  {
+    "id": "CG125-82-017",
+    "nome": "Pedal de Câmbio",
+    "descricao": "Pedal de câmbio.",
+    "categoria": "Controles",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "24700-GB4-000"
+  },
+  {
+    "id": "CG125-82-018",
+    "nome": "Pedal de Freio Traseiro",
+    "descricao": "Pedal de freio traseiro.",
+    "categoria": "Controles",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "46500-GB4-000"
+  },
+  {
+    "id": "CG125-82-019",
+    "nome": "Cabo do Acelerador",
+    "descricao": "Cabo do acelerador.",
+    "categoria": "Cabos",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "17910-GB4-000"
+  },
+  {
+    "id": "CG125-82-020",
+    "nome": "Cabo da Embreagem",
+    "descricao": "Cabo da embreagem.",
+    "categoria": "Cabos",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "22870-GB4-000"
+  },
+  {
+    "id": "CG125-82-021",
+    "nome": "Cabo do Freio Dianteiro",
+    "descricao": "Cabo do freio dianteiro.",
+    "categoria": "Cabos",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "45450-GB4-000"
+  },
+  {
+    "id": "CG125-82-022",
+    "nome": "Bateria",
+    "descricao": "Bateria 12V.",
+    "categoria": "Elétrica",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "31500-GB4-000"
+  },
+  {
+    "id": "CG125-82-023",
+    "nome": "Retificador",
+    "descricao": "Retificador de voltagem.",
+    "categoria": "Elétrica",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "31600-GB4-000"
+  },
+  {
+    "id": "CG125-82-024",
+    "nome": "Bobina de Ignição",
+    "descricao": "Bobina de ignição.",
+    "categoria": "Elétrica",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "30500-GB4-000"
+  },
+  {
+    "id": "CG125-82-025",
+    "nome": "Vela de Ignição",
+    "descricao": "Vela de ignição padrão.",
+    "categoria": "Motor",
+    "compatibilidade": ["CG 125 1982"],
+    "codigo_original": "98079-56846"
+  },
+  {
+    "id": "CGTURUNA-89-001",
+    "nome": "Motor Completo",
+    "descricao": "Motor 4 tempos, monocilíndrico, refrigerado a ar, com algumas melhorias.",
+    "categoria": "Motor",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "11000-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-002",
+    "nome": "Carburador",
+    "descricao": "Carburador de corpo simples, otimizado para Turuna.",
+    "categoria": "Alimentação",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "16100-KG1-600"
+  },
+  {
+    "id": "CGTURUNA-89-003",
+    "nome": "Escape Completo",
+    "descricao": "Sistema de exaustão esportivo com ponteira cromada.",
+    "categoria": "Exaustão",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "18300-KG1-700"
+  },
+  {
+    "id": "CGTURUNA-89-004",
+    "nome": "Quadro (Chassi)",
+    "descricao": "Chassi tubular de aço reforçado.",
+    "categoria": "Chassi",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "50100-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-005",
+    "nome": "Suspensão Dianteira",
+    "descricao": "Garfo telescópico com maior curso.",
+    "categoria": "Suspensão",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "51400-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-006",
+    "nome": "Suspensão Traseira",
+    "descricao": "Amortecedores duplos com ajuste de pré-carga.",
+    "categoria": "Suspensão",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "52400-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-007",
+    "nome": "Roda Dianteira",
+    "descricao": "Roda de liga leve 18 polegadas.",
+    "categoria": "Rodas e Pneus",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "44601-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-008",
+    "nome": "Roda Traseira",
+    "descricao": "Roda de liga leve 18 polegadas.",
+    "categoria": "Rodas e Pneus",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "42601-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-009",
+    "nome": "Tanque de Combustível",
+    "descricao": "Tanque de metal com design esportivo e capacidade de 10 litros.",
+    "categoria": "Carroceria",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "17500-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-010",
+    "nome": "Banco",
+    "descricao": "Banco esportivo com costura diferenciada.",
+    "categoria": "Assento",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "77200-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-011",
+    "nome": "Farol",
+    "descricao": "Farol retangular com lâmpada halógena.",
+    "categoria": "Elétrica",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "33100-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-012",
+    "nome": "Lanterna Traseira",
+    "descricao": "Lanterna traseira com design moderno.",
+    "categoria": "Elétrica",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "33700-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-013",
+    "nome": "Painel de Instrumentos",
+    "descricao": "Painel com conta-giros.",
+    "categoria": "Elétrica",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "37100-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-014",
+    "nome": "Guidão",
+    "descricao": "Guidão esportivo.",
+    "categoria": "Controles",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "53100-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-015",
+    "nome": "Manete de Freio",
+    "descricao": "Manete de freio dianteiro ajustável.",
+    "categoria": "Controles",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "53175-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-016",
+    "nome": "Manete de Embreagem",
+    "descricao": "Manete de embreagem ajustável.",
+    "categoria": "Controles",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "53178-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-017",
+    "nome": "Pedal de Câmbio",
+    "descricao": "Pedal de câmbio com borracha antiderrapante.",
+    "categoria": "Controles",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "24700-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-018",
+    "nome": "Pedal de Freio Traseiro",
+    "descricao": "Pedal de freio traseiro com borracha antiderrapante.",
+    "categoria": "Controles",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "46500-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-019",
+    "nome": "Cabo do Acelerador",
+    "descricao": "Cabo do acelerador de alta resistência.",
+    "categoria": "Cabos",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "17910-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-020",
+    "nome": "Cabo da Embreagem",
+    "descricao": "Cabo da embreagem de alta resistência.",
+    "categoria": "Cabos",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "22870-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-021",
+    "nome": "Cabo do Freio Dianteiro",
+    "descricao": "Cabo do freio dianteiro de alta resistência.",
+    "categoria": "Cabos",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "45450-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-022",
+    "nome": "Bateria",
+    "descricao": "Bateria 12V de maior amperagem.",
+    "categoria": "Elétrica",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "31500-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-023",
+    "nome": "Retificador",
+    "descricao": "Retificador de voltagem aprimorado.",
+    "categoria": "Elétrica",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "31600-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-024",
+    "nome": "Bobina de Ignição",
+    "descricao": "Bobina de ignição de alta performance.",
+    "categoria": "Elétrica",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "30500-KG1-000"
+  },
+  {
+    "id": "CGTURUNA-89-025",
+    "nome": "Vela de Ignição",
+    "descricao": "Vela de ignição de platina.",
+    "categoria": "Motor",
+    "compatibilidade": ["CG Turuna 1989"],
+    "codigo_original": "98079-5687Q"
+  }
+]
